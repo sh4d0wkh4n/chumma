@@ -1,0 +1,5 @@
+windows
+mac
+android
+linux
+color os
