@@ -3,3 +3,6 @@ mac
 android
 linux
 color os
+kali linux
+ubuntu
+parrot os
